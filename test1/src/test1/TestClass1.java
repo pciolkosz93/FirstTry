@@ -103,8 +103,9 @@ public class TestClass1 {
 		map.put(1, "x");
 		for(Map.Entry<Integer, String> entry: map.entrySet())
 			System.out.println(entry.getKey() + " " + entry.getValue());
+		System.out.println("xd"); 
 //		if(true){
-//			i = 5;
+//			i = 5; 
 //		}
 //		else{
 //			i = 10;
